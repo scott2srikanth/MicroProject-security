@@ -48,6 +48,8 @@ The underlying principles of every SIEM system is to aggregate relevant data fro
 
 >[Creating pipeline using Universal forwader](https://player.vimeo.com/video/139401183)
 
+![SPLUNK](https://raw.githubusercontent.com/scott2srikanth/MicroProject-security/master/siem/Screenshot (84).png)
+
 ```bash
     index=main sourcetype="tomcat8serverlogs" | 
     timechart count by AccessedIP
