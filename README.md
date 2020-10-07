@@ -1,20 +1,17 @@
 # **Micro Project - Security**
-|                   |                                                              |
+
 | ----------------- | ------------------------------------------------------------ |
 | Summary           | In this codelab, you’ll build an installable, Progressive Web App, which loads quickly, even on flaky networks, and when launched looks like any other installed app. |
-| URL               | your-first-pwapp                                             |
+| URL               |                                             |
 | Category          | Web                                                          |
-| Environment       | web, kiosk, io2016, pwa-dev-summit, pwa-roadshow, chrome-dev-summit-2016, io2017, typtwd17, gdd17, cds17, io2018, tag-web, jsconfeu, devfest18, io2019 |
+| Environment       | web, security |
 | Status            | Published                                                    |
-| Feedback Link     | https://github.com/googlecodelabs/your-first-pwapp/issues    |
+| Feedback Link     |     |
 | Author            | Srikanth Reddy                                               |
 | Location          | KMIT                                                         |
 | Analytics Account | XXXXXXXXX                                                    |
 
 [TOC]
-
-
-
 
 
 # Introduction to SIME
