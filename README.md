@@ -1,17 +1,19 @@
-# **Micro Project - Security**
-
+|                   |                                                              |
 | ----------------- | ------------------------------------------------------------ |
 | Summary           | In this codelab, you’ll build an installable, Progressive Web App, which loads quickly, even on flaky networks, and when launched looks like any other installed app. |
-| URL               |                                             |
+| URL               |                                                              |
 | Category          | Web                                                          |
-| Environment       | web, security |
+| Environment       | web, server                                                  |
 | Status            | Published                                                    |
-| Feedback Link     |     |
+| Feedback Link     |                                                              |
 | Author            | Srikanth Reddy                                               |
 | Location          | KMIT                                                         |
 | Analytics Account | XXXXXXXXX                                                    |
 
 [TOC]
+
+
+
 
 
 # Introduction to SIME
