@@ -1,6 +1,6 @@
 |                   |                                                              |
 | ----------------- | ------------------------------------------------------------ |
-| Summary           | In this codelab, you’ll build an installable, Progressive Web App, which loads quickly, even on flaky networks, and when launched looks like any other installed app. |
+| Summary           | . |
 | URL               |                                                              |
 | Category          | Web                                                          |
 | Environment       | web, server                                                  |
